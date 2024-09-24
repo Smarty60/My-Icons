@@ -1,7 +1,19 @@
 [
-    { "name": "task", "fileName": "icons/task.png" },
-    { "name": "delegate", "fileName": "icons/delegate.png" },
-    { "name": "career", "fileName": "icons/career.png" },
-    { "name": "idea", "fileName": "icons/idea.png" }
+    {
+      "name": "task",
+      "fileName": "Icons/task.png"
+    },
+    {
+      "name": "delegate",
+      "fileName": "Icons/delegate.png"
+    },
+    {
+      "name": "career",
+      "fileName": "Icons/career.png"
+    },
+    {
+      "name": "idea",
+      "fileName": "Icons/idea.png"
+    }
   ]
   
